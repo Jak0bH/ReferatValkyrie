@@ -17,7 +17,20 @@ Ein Referat von Jakob H.
 
 ---
 
-## Charactere
+## Allgemeine Informationen
+- Erscheinungsjahr: 2008
+- Länge: 120 Minuten (2h)
+- Staatsstreich im 2. Weltkrieg
+- gefilmt in Deutschland und Kalifornien
+- mehrere Filmversionen
+	- Stauffenberg / Operation Valkyrie (2004)
+	- Operation Walküre - Das Stauffenberg-Attentat / Valkyrie (2008)
+		- mit Tom Cruise
+	- Operation Walküre - Das Hitler-Attentat (2009)
+
+---
+
+## Charaktere
 
 ---
 
@@ -97,17 +110,18 @@ Oberst
 #### Nordfront in Russland
 - General Tresckow steckt Zündschnur in Whiskey
 - Hitler steigt in Flugzeug
-- Tresckow übergibt Flasche mit Bombe Brandt
+- Tresckow übergibt Flasche Oberst Brandt
 - Telefonat
 	- "Er ist gelandet"
 - Tresckow ruft Brandt an
-	- falsche Flasche übergeben
+	- will Flasche zurückhaben
+	- "falsche Flasche"
 
 ---
 
 #### Armeekommando Berlin
 - Olbricht berichtet Tresckow
-	- Operation aufgeflogen
+	- "Operation aufgeflogen"
 	- Festnahme von Oster
 
 ---
@@ -165,10 +179,23 @@ Oberst
 
 ---
 
+- Stauffenberg schreibt Befehl neu
+	- Regierung in 3 Stunden unter Kontrolle
+- Tresckow wird an Front geschickt
+- übergibt Stauffenberg die Kontrolle
+
+---
+
+#### Büro von Stauffenberg
+- Olbricht akzeptiert Änderungen
+- Stauffenberg muss Hitler zum Unterschreiben bringen
+
+---
+
 #### Berghof
 *Hitler's privates Anwesen*
 - Stauffenberg trifft Hitler
-- dieser Unterschreibt Änderung an Walküre
+- dieser unterschreibt Änderung an Walküre
 
 ---
 
@@ -201,7 +228,7 @@ Oberst
 
 - General Fellgiebel kappt Kommunikation
 - Olbricht weigert sich, seinen Teil zu tun
-	- will persönlcihe Bestätigung
+- will persönliche Bestätigung
 - Stauffenberg fliegt in Flugzeug nach Berlin
 - Olbrichts Assistent sendet Standby an Reservearmee
 - Olbricht soll Walküre iniitieren
@@ -209,9 +236,9 @@ Oberst
 ---
 
 - Olbricht ruft Kommunikationsbereich an
-	- bestätigt Tod des Führers
-	- SS würde Regierung übernehmen
-	- Walküre soll gestartet werden
+- bestätigt Tod des Führers
+- SS würde Regierung übernehmen
+- Walküre soll gestartet werden
 - Befehl wird weitergegeben
 
 ---
@@ -219,16 +246,16 @@ Oberst
 #### Büro von Fromm
 - Fromm glaubt nicht an den Tod
 - ruft in der Wolfsschanze an
-	- der Führer lebt
-	- fehlgeschlagener Versuch
+- der Führer lebt
+- fehlgeschlagener Versuch
 - Stauffenberg betritt Büro
-	- bestätigt Tod
+- bestätigt Tod
 - Fromm will andere festnehmen
-	- nehmen stattdessen ihn fest
+- nehmen stattdessen ihn fest
 
 ---
 
-#### Regierungsvertiel
+#### Regierungsviertel
 - Berlin
 - Reservearmee stürmt Regierungsgebäude
 - nehmen SS-Anhänger fest
@@ -245,7 +272,7 @@ Oberst
 
 #### Büro von Goebbels
 - Major Remer betritt Büro
-- will ihn festnehmen
+- will Goebbels festnehmen
 - bekommt Telefon mit Hitler
 - Remer begreift den Putschversuch
 - Hitler will die Verräter lebend
@@ -271,7 +298,7 @@ Oberst
 - Sekräterin sendet Befehl an Reservearmee
 	- Radio lügt
 	- Operation Walküre geht weiter
-- Scheitern des Planes immer mehr sichtbar
+- Scheitern des Plans immer mehr sichtbar
 
 ---
 
@@ -284,10 +311,10 @@ Oberst
 
 ---
 
-- Hitler erlkärt im Radio
+- Hitler erklärt im Radio
 	- nur leichte Verletzungen
 	- Putschversuch gescheitert
-	- Motivation, weiterzumachen
+	- "Motivation, weiterzumachen"
 - Ermordung der Verschwörer
 	- Olbricht (erschossen)
 	- Fellgiebel (erschlagen)
