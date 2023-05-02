@@ -324,5 +324,23 @@ Oberst
 
 ---
 
+# Warum fehlgeschlagen?
+- Lagebesprechung wurde vorgelegt
+- zweiter Sprengsatz nicht in Aktentasche gelegt
+    - ⇒ geringere Sprengwirkung
+- Druckwelle kann durch Fenster entweichen
+- Konferenzteilnehmer verschiebt Aktentasche
+- Tischplatte schirmt Hitler ab
+
+---
+
+# Persönliche Meinung
+- guter Film
+- sehr spannend dargestellt
+- verwirrende Handlung
+    - mit der Zeit erklärt sich einiges
+
+---
+
 # Danke für eure Aufmerksamkeit!
 https://github.com/Jak0bH/ReferatValkyrie
